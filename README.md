@@ -2,6 +2,9 @@
 
 JsQueryExpression aims to create a javascript library to generate URIs by using QueryExpression like (names are inspired from Microsoft Dynamics CRM QueryExpression class) object model to query OData resources.
 
+This project has been moved from CodePlex. 
+http://jsqueryexpression.codeplex.com
+
 ## What is all that about?
 
 Typing URIs or formatting strings to access OData resource is error prone, hard to write,  hard to read and even boring.
